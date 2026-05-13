@@ -1,16 +1,28 @@
-## Hi there 👋
+  # Facundo Adaro
 
-<!--
-**facundoadaro/facundoadaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Process Automation Engineer focused on the intersection of
+  business operations and technology.
 
-Here are some ideas to get you started:
+  My approach: optimize the workflow first, then automate it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## What I build
+
+  - **Revico** — Full-stack SaaS for automotive workshop management
+    Next.js · Supabase · Redux · WhatsApp API · Vercel
+    → [revico.com.ar](https://revico.com.ar)
+
+  - **Process automation** — n8n workflows, digital signature flows,
+    WhatsApp automation, web scrapers
+
+  - **Client projects** — Landing pages and custom tools for SMBs
+
+  ## Stack
+
+  Next.js · Supabase · PostgreSQL · Redux · n8n · Node.js
+  WhatsApp Business API · Resend · Vercel · Git
+
+  ## Background
+
+  Industrial Engineer (UNLP) · EU Citizen · Remote from Argentina
+  5 years across SaaS, IT operations, functional analysis, and
+  software development
